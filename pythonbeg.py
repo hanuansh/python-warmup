@@ -11,6 +11,6 @@ while(True):
         print("Subtraction is:",a-b)
     elif(ch==3):
         print("Multiplication is:",a*b)
-    elif(ch==1):
+    elif(ch==4):
         print("Division is:",int(a/b))
 print("Programme ended")
